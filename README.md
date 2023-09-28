@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JFlanary
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning coding (full-stack)
